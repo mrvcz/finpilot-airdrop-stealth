@@ -69,3 +69,6 @@ Email: `team@finpilot.ai` *(pending)*
 ## License
 
 MIT – Build with it, fork it, fly with it ✈️
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mrvcz/finpilot-airdrop-stealth)
+![GitHub Repo stars](https://img.shields.io/github/stars/mrvcz/finpilot-airdrop-stealth?style=social)
+![License](https://img.shields.io/github/license/mrvcz/finpilot-airdrop-stealth)
