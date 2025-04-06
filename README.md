@@ -1,13 +1,12 @@
 # 🛩️ Finpilot × Solana – Stealth Airdrop Landing Page
 
-Welcome early explorer. This is the official early access airdrop page for **Finpilot**, your AI-powered co-pilot for finance in the Web3 era.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mrvcz/finpilot-airdrop-stealth)
+![GitHub Repo stars](https://img.shields.io/github/stars/mrvcz/finpilot-airdrop-stealth?style=social)
+![License](https://img.shields.io/github/license/mrvcz/finpilot-airdrop-stealth)
 
-Built with:
-- 🧠 React (or HTML version if static)
-- 🎨 TailwindCSS (optional)
-- ⚡️ Vercel-ready deployment
-- 🔐 hCaptcha integration (anti-bot)
-- 🧾 Google Sheets / webhook compatible for wallet snapshots
+---
+
+Welcome early explorer. This is the official early access airdrop page for **Finpilot**, your AI-powered co-pilot for finance in the Web3 era.
 
 ---
 
@@ -31,9 +30,7 @@ We are now building on Solana, and this stealth airdrop is your early entry.
 ## 🔧 Setup & Deployment
 
 1. Fork this repo
-2. Edit `.env` file with your:
-   - `HCAPTCHA_SITE_KEY`
-   - (optional) webhook endpoint for form submission
+2. (Optional) Add webhook or Google Sheet integration
 3. Deploy on [Vercel](https://vercel.com/new)
 
 ---
@@ -42,9 +39,10 @@ We are now building on Solana, and this stealth airdrop is your early entry.
 
 ```bash
 .
-├── index.html          # Static stealth landing
-├── public/             # Logo + Favicon
-├── .env.example        # Captcha keys (if using React version)
+├── index.html                  # Static stealth landing
+├── Finpilot_Logo_Circle.png   # Logo icon
+├── Finpilot_Logo_Optimized.png
+├── Finpilot_Favicon_32x32.png
 ├── README.md
 ```
 
@@ -66,9 +64,7 @@ Email: `team@finpilot.ai` *(pending)*
 
 ---
 
-## License
+## 🪙 License
 
 MIT – Build with it, fork it, fly with it ✈️
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mrvcz/finpilot-airdrop-stealth)
-![GitHub Repo stars](https://img.shields.io/github/stars/mrvcz/finpilot-airdrop-stealth?style=social)
-![License](https://img.shields.io/github/license/mrvcz/finpilot-airdrop-stealth)
+
